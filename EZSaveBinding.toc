@@ -1,6 +1,6 @@
 ## Interface: 100105
-## Title: SaveBinding
-## Version: 0.0.2
+## Title: EZ Save Binding
+## Version: 0.0.3
 ## Author: Вульперняга
 ## Notes: An addon for auto-changing the layout of the control keys between the builds of the character
 ## Notes-ruRU: Аддон для автосмены раскладки клавиш управления между билдами персонажа.
@@ -9,8 +9,8 @@
 ## X-Category: Action Bars
 ## RequiredDeps:
 ## OptionalDeps:
-## SavedVariables: DygDygTestGlobal, SaveBindingPresetsGlobal, SaveBindingConfidGlobal
-## SavedVariablesPerCharacter: DygDygTestLocal, SaveBindingPresetsLocal, SaveBindingConfigLocal, SaveBindingBackup
+## SavedVariables: SaveBindingPresetsGlobal, SaveBindingConfidGlobal
+## SavedVariablesPerCharacter: SaveBindingPresetsLocal, SaveBindingConfigLocal, SaveBindingBackup
 
 # libs\Libs.xml
 # locals.xml
