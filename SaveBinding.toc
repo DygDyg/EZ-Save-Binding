@@ -9,7 +9,7 @@
 ## X-Category: Action Bars
 ## RequiredDeps:
 ## OptionalDeps:
-## SavedVariables: DygDygTestGlobal, SaveBindindPresetsGlobal, SaveBindindConfidGlobal
+## SavedVariables: DygDygTestGlobal, SaveBindingPresetsGlobal, SaveBindingConfidGlobal
 ## SavedVariablesPerCharacter: DygDygTestLocal, SaveBindingPresetsLocal, SaveBindingConfigLocal, SaveBindingBackup
 
 # libs\Libs.xml
