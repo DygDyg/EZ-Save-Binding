@@ -1,5 +1,5 @@
 ## Interface: 100105
-## Title: EZ Save Binding
+## Title: EZ SaveBinding
 ## Version: 0.0.3
 ## Author: Вульперняга
 ## Notes: An addon for auto-changing the layout of the control keys between the builds of the character
