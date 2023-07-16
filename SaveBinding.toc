@@ -1,0 +1,19 @@
+## Interface: 100105
+## Title: SaveBinding
+## Version: 0.0.1
+## Author: Вульперняга
+## Notes: SaveBinding
+## Notes-ruRU: SaveBinding
+## X-Website: https://www.curseforge.com/wow/addons/ezchatbar
+## X-Curse-Project-ID: 403805
+## X-Category: Chat
+## RequiredDeps:
+## OptionalDeps:
+## SavedVariables: DygDygTestGlobal, SaveBindindPresetsGlobal, SaveBindindConfidGlobal
+## SavedVariablesPerCharacter: DygDygTestLocal, SaveBindingPresetsLocal, SaveBindingConfigLocal, SaveBindingBackup
+
+# libs\Libs.xml
+# locals.xml
+
+main.lua
+
