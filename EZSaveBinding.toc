@@ -1,6 +1,6 @@
 ## Interface: 100200
 ## Title: EZ SaveBinding
-## Version: 0.0.5
+## Version: 0.0.6
 ## Author: Вульперняга
 ## Notes: An addon for auto-changing the layout of the control keys between the builds of the character
 ## Notes-ruRU: Аддон для автосмены раскладки клавиш управления между билдами персонажа.
